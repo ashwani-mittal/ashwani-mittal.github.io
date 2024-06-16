@@ -1095,7 +1095,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: rgba(255,255,255,.5);
+	background: rgba(255,255,255,0);
 	min-width: 220px;
 	min-height: 66px;
 	position: relative;
